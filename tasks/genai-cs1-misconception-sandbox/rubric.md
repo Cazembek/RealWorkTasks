@@ -1,6 +1,6 @@
 # Evaluation Rubric
 
-Weights sum to 100. Score each criterion 0–1 (fraction met), multiply by weight, sum.
+Weights sum to 100. Score each criterion 0–1 (0 for missing, 0.5 for partially there, and 1 for fully there), multiply by weight, sum.
 "Cites/references" requires a specific, checkable reference to the source packet —
 generic restatement without the underlying data/number/name does not satisfy a
 criterion that requires it.
